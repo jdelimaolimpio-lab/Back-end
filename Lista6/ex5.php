@@ -1,6 +1,6 @@
 <?php
 
-$opcao=3;
+$opcao=2;
 echo '<h1 style= "color: blue ;">BRAWL STARS </h1><br>';
 echo "1-Jogar <br><hr>";
 echo "2-Ver Personagens <br><hr>";
